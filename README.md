@@ -15,7 +15,6 @@ The purpose of this project is to develop a food delivery app using the MERN (Mo
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
 
-
 ## Features-
 
 - Allow users to browse food items.
