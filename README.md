@@ -48,11 +48,11 @@ The Home screen displays the list of food items in a grid view, with each food i
 
 ## Steps to Run the App- 
 
-# Getting Started with Create React App
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
